@@ -7,6 +7,10 @@ ol, ul {
   padding-left: 30px;
 }
 
+.main-board{
+  text-align: center;
+}
+
 .board-row:after {
   clear: both;
   content: "";
@@ -24,12 +28,12 @@ ol, ul {
   font-size: 24px;
   font-weight: bold;
   line-height: 34px;
-  height: 234px;
+  height: 144px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 234px;
+  width: 144px;
 }
 
 .square:focus {
